@@ -1,6 +1,6 @@
 # Andrei Yarmilko
-![avatar](/rsschool-cv\assets\img\avarar.jpg)
 -----------------------------------------------
+
 ### Contacts information:
 * Phone: +375 (33) 687 96 64
 * e-mail: andreiyarmilko@gmail.com
@@ -10,7 +10,6 @@
 
 ### About Me:
 I have good communication skills, I work well in a team and I learn quickly.
-
 
 I am a professional fisherman.
 -----------------------------------------------
@@ -33,12 +32,11 @@ function typeOfSum(a, b) {
 ```
 -----------------------------------------------
 
-### Experience:
------------------------------------------------
 ### Education:
 * 2011-2016 Yanka Kupala State University of Grodno / Faculty of Mathematics and Informatics
 * RS School JS/FE Pre-School 2022Q4
 -----------------------------------------------
+
 ### Languages:
 - Russian - Native
 - Belarussian - Native
