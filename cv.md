@@ -8,10 +8,7 @@
 -----------------------------------------------
 
 ### About Me:
-
 I have good communication skills, I work well in a team and I learn quickly.
-
-
 I am a professional fisherman.
 -----------------------------------------------
 
@@ -26,8 +23,8 @@ I am a professional fisherman.
 
 *Return the type of the sum of the two arguments*
 
-
-```function typeOfSum(a, b) {
+```
+function typeOfSum(a, b) {
   return typeof(a + b);
 }
 ```
