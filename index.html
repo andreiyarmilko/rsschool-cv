@@ -113,26 +113,9 @@
             <div class="code-right">
                 <pre>
                     <code>
-$.modal = function (options){
-    const ANIMATION_SPEED = 200
-    const $modal = _createModel(options)
-let closing = false
-    return {
-    open (){
-        !closing && $modal.classList.add('open')
-    },
-close() {
-closing = true
-$modal.classList.remove('open')
-$modal.classList.add('hide')
-setTimeout(() => {
-$modal.classList.remove('hide')
-closing = false
-}, ANIMATION_SPEED)
-},
-    destroy() {}
-}
-}
+const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
+  return (mpg * fuelLeft) >= distanceToPump;
+};
                     </code>
                 </pre>
             </div>
